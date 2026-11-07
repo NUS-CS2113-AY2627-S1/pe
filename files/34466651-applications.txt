@@ -1,0 +1,42 @@
+JOBSEEK Applications
+company	role	completed	deadline	stage	portalLink	email	notes
+Google	SWE Intern	false	2026-12-15	Applied			
+Shopee	Backend Intern	false	2026-11-03	Applied			
+Grab	Data Analyst Intern	false	2026-12-01	Applied			
+GovTech	Software Engineer Intern	false	2026-11-06	Applied			
+DBS	Technology Analyst	false	2026-12-20	Applied			
+OCBC	Graduate Associate	false		Applied			
+Sea	Product Manager Intern	false	2026-11-05	Applied			
+ByteDance	Frontend Intern	false	2026-12-10	Applied			
+Micron	Firmware Engineer	false	2027-01-05	Applied			
+Visa	Cybersecurity Intern	false	2026-11-10	Applied			
+Meta	Production Engineer Intern	false	2026-12-31	Applied			
+Stripe	SWE Intern	false		Applied			
+Jane Street	Quant Trader Intern	false	2026-11-28	Applied			
+Citadel	Software Engineer Intern	false	2026-12-05	Applied			
+Optiver	Graduate Trader	false	2026-12-12	Applied			
+UOB	IT Graduate	false	2027-01-15	Applied			
+Singtel	Network Engineer Intern	false		Applied			
+ST Engineering	Embedded Engineer	false	2026-12-18	Applied			
+Lazada	Data Scientist Intern	false	2026-11-12	Applied			
+Carousell	Mobile Engineer Intern	false	2026-12-08	Applied			
+Agoda	Backend Engineer	false	2027-01-10	Applied			
+Amazon	SDE Intern	false	2026-12-03	Applied			
+Microsoft	Explore Intern	false		Applied			
+Apple	Hardware Intern	false	2026-12-22	Applied			
+Tiktok	ML Engineer Intern	false	2026-11-30	Applied			
+Ninja Van	Ops Analyst	false	2027-01-20	Applied			
+Foodpanda	Product Analyst Intern	false		Applied			
+PayPal	SWE Intern	false	2026-12-14	Applied			
+Goldman Sachs	Summer Analyst	false	2026-12-02	Applied			
+JP Morgan	Software Engineer Program	false	2026-12-09	Applied			
+Accenture	Technology Analyst	false		Applied			
+Deloitte	Tech Consulting Intern	false	2027-01-08	Applied			
+PwC	Digital Assurance Intern	false	2026-12-16	Applied			
+Razer	Game Developer Intern	false	2026-12-28	Applied			
+Garena	QA Engineer Intern	false		Applied			
+Indeed	SWE Intern	false	2027-01-12	Applied			
+Wise	Backend Intern	false	2026-12-11	Applied			
+Revolut	Data Engineer	false	2027-01-18	Applied			
+Canva	Frontend Engineer	false	2026-12-24	Applied			
+HP	Firmware Intern	false	2027-01-22	Applied			
